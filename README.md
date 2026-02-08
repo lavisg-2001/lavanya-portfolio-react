@@ -15,4 +15,4 @@ This template provides a minimal setup to get React working in Vite, for a perso
 - **Styling**: Tailwind CSS, shadcn/ui, Bootstrap
 - **Animations**: Framer Motion
 - **Icons**: Lucide React
-- **Deployment**: Vercel 🔗
+- **Deployment**: Vercel 🔗 https://dev.lavanya.info/
